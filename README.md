@@ -1,6 +1,6 @@
 ## korn_web
 
-模拟炒币（现货）、数字货币实时行情 & 资讯、最新空投信息等。基于 react/umi 构建。
+模拟炒币（现货）、数字货币实时行情 & 资讯、最新空投信息等。基于 `react/umi` 构建。
 
 > 该项目是 [korn_wallet](https://github.com/GG4mida/korn_wallet) 对应的后台简易管理项目。
 > 该项目接口依赖于 [korn_service](https://github.com/GG4mida/korn_service)
@@ -18,7 +18,7 @@
 
 ## 截图
 
-> 如图片无法加载请开启 FQ 软件。
+> 如图片无法加载请开启 `FQ` 软件。
 
 <div>
   <img src="https://github.com/GG4mida/korn_web/blob/main/screenshot/1.png?raw=true" width="800" alt="article"/>
