@@ -1,0 +1,30 @@
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+#root {
+  min-height: 100vh;
+}
+
+.flex-center-center {
+  @apply flex items-center justify-center;
+}
+
+.flex-center-between {
+  @apply flex items-center justify-between;
+}
+
+.absolute-right-bottom {
+  @apply absolute bottom-7 right-7;
+}
+
+.action-item {
+  @apply w-14 h-14 rounded-full my-2 shadow-lg no-underline block;
+}
+
+.action-item:hover {
+  @apply opacity-90;
+}
+
+.sec-html {
+  @apply bg-gray-50 border-l border-gray-600;
+}
